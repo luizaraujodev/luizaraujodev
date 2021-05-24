@@ -1,4 +1,12 @@
-[![Luiz Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=luizaraujodev)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=luizaraujodev&show_icons=true&theme=algolia" alt="Luiz Araujo's stats" height=175 />
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizaraujodev&layout=compact&show_icons=true&theme=algolia" alt="Luiz Araujo's stats" height=175 />
+  </span>
+</p>
 
 <!--
 **luizaraujodev/luizaraujodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
