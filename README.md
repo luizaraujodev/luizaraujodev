@@ -16,9 +16,8 @@
   <img align="center" alt="LuizAraujo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<div>
-   ![Snake animation](https://github.com/luizaraujodev/luizaraujodev/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+![Snake animation](https://github.com/luizaraujodev/luizaraujodev/blob/output/github-contribution-grid-snake.svg)
 <!--
 **luizaraujodev/luizaraujodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
