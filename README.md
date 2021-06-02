@@ -9,7 +9,7 @@
 </p>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="LuizAraujo-dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/tree/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="LuizAraujo-dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="LuizAraujo-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="LuizAraujo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="LuizAraujo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
