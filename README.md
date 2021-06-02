@@ -1,7 +1,7 @@
-
+##Olá! Eu sou Luiz Araújo!
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=luizaraujodev&show_icons=true&theme=algolia" alt="Luiz Araujo's stats" height=175 />
+    <img src="https://github-readme-stats.vercel.app/api?username=luizaraujodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Luiz Araujo's stats" height=175 />
   </span>
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizaraujodev&layout=compact&show_icons=true&theme=algolia" alt="Luiz Araujo's stats" height=175 />
