@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizaraujodev" alt="luizaraujodev" /></a> </p>
 
-- 🔭 I’m currently working on **https://github.com/orgs/rockcontent/teams**
+- 🔭 I’m currently working on **Vsoft**
 
-- 🌱 I’m currently learning **Flutter, MAUI, AWS**
+- 🌱 I’m currently learning **MAUI, Blazor, Azure**
 
-- 💬 Ask me about **.NET, Flutter, Software developing**
+- 💬 Ask me about **.NET, Maui, Xamarin, Blazor, Software developing**
 
-- 📫 How to reach me **luizaraujo.dev@outlook.com**
+- 📫 How to reach me **araujoluiz.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
